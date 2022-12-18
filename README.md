@@ -7,4 +7,4 @@ learning from the full stack developer course
 git hus is fun lol.
 
 
-##
+Some new stuff. hey! see the differeces now? Yes.
